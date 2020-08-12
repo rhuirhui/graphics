@@ -1,0 +1,5 @@
+# OpenGL graphics tutorial
+
+This is a tutorial on programming openGL graphics using C++. This repo contains a modified subset of the
+code in http://www.opengl-tutorial.org/beginners-tutorials/. This code has only been tested on ubuntu 18.04+.
+
